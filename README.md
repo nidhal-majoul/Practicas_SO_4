@@ -33,10 +33,10 @@ Un paquete de datos se considera **VÁLIDO** si:
 * Cuenta estrictamente con una matriz cuadrada inicial de 16x16 valores de presión antes de ser procesada por el motor matemático.
 ## Requisitos del sistema
 
-* **Sistema operativo compatible (Windows 10/11, Linux o macOS).
-* **Compilador de C++ con soporte estándar (g++ recomendado).
-* **Intérprete de Python 3.x instalado en el path del sistema.
-* **Dependencias de red para Python instaladas en el entorno (pip install flask numpy matplotlib).
+* Sistema operativo compatible (Windows 10/11, Linux o macOS).
+* Compilador de C++ con soporte estándar (g++ recomendado).
+* Intérprete de Python 3.x instalado en el path del sistema.
+* Dependencias de red para Python instaladas en el entorno (pip install flask numpy matplotlib).
 
 Herramienta cURL disponible en la consola nativa del sistema operativo de ejecución.
 ## Compilación del programa
