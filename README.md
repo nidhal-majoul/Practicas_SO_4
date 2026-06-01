@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+
 # Práctica 4 – Procesamiento e interoperabilidad de datos de sensores táctiles
 
 ## Descripción del proyecto
